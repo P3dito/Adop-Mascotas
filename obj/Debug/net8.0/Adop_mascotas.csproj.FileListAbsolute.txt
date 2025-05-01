@@ -108,3 +108,8 @@ C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\obj\Debug\net8.0\refint\Adop_
 C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\obj\Debug\net8.0\Adop_mascotas.pdb
 C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\obj\Debug\net8.0\Adop_mascotas.genruntimeconfig.cache
 C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\obj\Debug\net8.0\ref\Adop_mascotas.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\bin\Debug\net8.0\out\web.config
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\bin\Debug\net8.0\out\Adop_mascotas.deps.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\bin\Debug\net8.0\out\Adop_mascotas.runtimeconfig.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\bin\Debug\net8.0\out\appsettings.json

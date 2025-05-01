@@ -1,0 +1,16 @@
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Adop_mascotas.exe
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\appsettings.Development.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\appsettings.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\app.db
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Adop_mascotas.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Adop_mascotas.runtimeconfig.json
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Adop_mascotas.pdb
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.EntityFrameworkCore.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Npgsql.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\palom\Downloads\Proyecto C#\Adop_mascotas\out\Adop_mascotas.deps.json

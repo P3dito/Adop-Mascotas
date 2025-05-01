@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adop_mascotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7939a62035c75f2b4f496daebf5e3c92a0dc63e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41bf3a22ff78b51fcf8436b6787209e96c0f543f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adop_mascotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adop_mascotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

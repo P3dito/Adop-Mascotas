@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Nueva Adopción";
+    var mascotas = ViewBag.Mascotas as List<Mascota>;
+    var adoptantes = ViewBag.Adoptantes as List<Adoptante>;
+}
+
+<h2>Registrar Nueva Adopción</h2>
+
+<form asp-action="Crear" method="post">
+    <div class="form-group">
+        <label>Mascota</label>
+        <select name="mascotaId" class="form-control" required>
+            @foreach (var mascota in mascotas)
+            {
+                <option value="@mascota.Id">@mascota.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Adoptante</label>
+        <select name="adoptanteId" class="form-control" required>
+            @foreach (var adoptante in adoptantes)
+            {
+                <option value="@adoptante.Id">@adoptante.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Registrar Adopción</button>
+</form>
+

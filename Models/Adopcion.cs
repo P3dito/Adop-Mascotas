@@ -20,5 +20,5 @@ public class Adopcion
     [ForeignKey("AdoptanteId")]
     public Adoptante? Adoptante { get; set; }
 
-    public DateTime FechaAdopcion { get; set; } = DateTime.Now;
+    public DateTime FechaAdopcion { get; set; }
 }

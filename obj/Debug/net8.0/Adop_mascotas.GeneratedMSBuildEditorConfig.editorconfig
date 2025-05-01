@@ -22,6 +22,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/palom/Downloads/Proyecto C\#/Adop_mascotas/Views/Adopciones/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcGNpb25lc1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palom/Downloads/Proyecto C\#/Adop_mascotas/Views/Adopciones/Lista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcGNpb25lc1xMaXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/palom/Downloads/Proyecto C\#/Adop_mascotas/Views/Adoptantes/CrearAdop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRhbnRlc1xDcmVhckFkb3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/palom/Downloads/Proyecto C\#/Adop_mascotas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

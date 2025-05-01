@@ -1,0 +1,20 @@
+@model Adoptante
+
+@{
+    ViewData["Title"] = "Registrar Adoptante";
+}
+
+<h2>Registrar Adoptante</h2>
+
+<form asp-action="Crear" method="post">
+    <div class="form-group">
+        <label for="Nombre">Nombre del Adoptante</label>
+        <input asp-for="Nombre" class="form-control" required />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
